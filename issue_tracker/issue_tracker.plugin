@@ -1,0 +1,9 @@
+[Plugin]
+Name=Issue Tracker
+Description=Display information from remote issue tracker
+Author=Tobias Schönberg
+Copyright=GPL2 2016
+
+Loader=python3
+Module=issue_tracker
+
